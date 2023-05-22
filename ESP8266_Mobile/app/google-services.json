@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811257981933",
+    "project_id": "esp8266-3eb00",
+    "storage_bucket": "esp8266-3eb00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811257981933:android:e70130de0e336adfcc55e4",
+        "android_client_info": {
+          "package_name": "com.example.esp8266"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811257981933-hfds51ssiudgula6lfmermrs2i2tgihr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnHQg6qLN-7xQ7El9_KHC0F-dK2SUn9-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811257981933-hfds51ssiudgula6lfmermrs2i2tgihr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
